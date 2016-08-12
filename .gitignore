@@ -1,0 +1,6 @@
+/jwt/*.local
+/jwt/*.identcache
+Win32/
+__history/
+/jwt/JwtAuthDemo.dproj
+/jwt/JwtAuthDemo.res
